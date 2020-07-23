@@ -2,7 +2,7 @@ const prompt = require('inquirer').createPromptModule()
 const fs = require('fs')
 
 const api = require('./utils/api1.js')
-const generateMarkdown = require('./utils/Markdown.js')
+const Markdown = require('./utils/Markdown.js')
 
 const writeToFile = (fileName, data) => {
   fs.writeFile(fileName + '.md', data, error => error ? console.error(error) : console.log(`${fileName + '.md'} generated!`))
