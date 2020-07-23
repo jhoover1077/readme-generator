@@ -15,7 +15,7 @@ __Installation:__
 Clone repository to your computer.
 
 __Usage:__
-Run 'node index.js'. It will ask for a username and repo name.
+Run 'node index.js'. It will ask for a username and repo name.  Follow the prompts from there.
 
 __Contributors:__
 None
