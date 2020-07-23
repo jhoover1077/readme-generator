@@ -1,13 +1,13 @@
 
 <a href="https://github.com/jhoover1077" style="float:right"><img src="https://avatars0.githubusercontent.com/u/63817367?s=460&v=4" alt="jhoover1077" title="jhoover1077" width="120" height="120"></a>
 
-# BCHW7-README
+# Jhoover1077-README
 
 ![License: None](https://img.shields.io/badge/License-None-brightgreen)
 
 _Repo by jhoover1077_
 
-__Boot Camp Homework 9 - Readme Generator__
+__- Readme Generator__
 
 ---
 
