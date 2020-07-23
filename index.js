@@ -60,7 +60,7 @@ const init = async _ => {
       message: 'Any questions?'
     }
   ]))
-  writeToFile(rmObject.title, await generateMarkdown(rmObject))
+  writeToFile(rmObject.title, await Markdown(rmObject))
 }
 
 init()
