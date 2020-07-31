@@ -12,16 +12,16 @@ __null__
 ---
 
 __Installation:__
-git clone to your desktop
+you need to git clone the repository and then run the app from the command line
 
 __Usage:__
-can be used to generate a readme
+to generate readme files
 
 __Contributors:__
-jack hoover
+Jack
 
 __Tests:__
-the tests include questions
+Markdown
 
 __Questions:__
-yes several questions
+none currently
