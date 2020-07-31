@@ -3,7 +3,7 @@
 
 # Jhoover1077-README
 
-![License: MIT](https://img.shields.io/badge/License-None-brightgreen)
+![License: ](https://camo.githubusercontent.com/ee1ac68d16bf982ae3b5fa88102f0736c907d2ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d677265656e)
 
 _Repo by jhoover1077_
 
